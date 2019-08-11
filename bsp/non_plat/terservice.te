@@ -1,0 +1,10 @@
+# ==============================================
+# Policy File of /system/bin/terservice Executable File
+
+
+# ==============================================
+# MTK Policy Rule
+# ==============================================
+
+# ccci ioctl
+allow terservice ccci_device:chr_file { rw_file_perms };

@@ -1,0 +1,19 @@
+# ==============================================
+# ==============================================
+
+# ==============================================
+# MTK Policy Rule
+# ==============================================
+
+# Date : WK16.33
+# Purpose: Allow to access ged for gralloc_extra functions
+
+# Date : WK17.01
+# Operation : Migration
+# Purpose : Update AT_Command NFC function
+
+# Date : WK18.21
+# Purpose: Allow to use HIDL
+
+# Date : WK18.21
+# Purpose : Move audio command to atci service

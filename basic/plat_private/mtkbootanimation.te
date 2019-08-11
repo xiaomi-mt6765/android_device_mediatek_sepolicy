@@ -1,0 +1,48 @@
+# ==============================================
+# MTK Policy Rule
+# ============
+
+
+
+
+# Date W17.39
+# Operation Migration
+# Purpose : for mtk bootanimation
+
+
+
+# /oem access
+
+
+
+# Allow access to ion memory allocation device
+
+# Fences
+
+# Read access to pseudo filesystems.
+
+# System file accesses.
+
+# Date : WK14.32
+# Operation : Migration
+# Purpose : for playing boot tone
+
+# Purpose : for playing bootanimation audio
+
+# Date : WK14.37
+# Operation : Migration
+# Purpose : for opetator
+
+# Date : WK14.46
+# Operation : Migration
+# /data/resource-cache
+
+# Data : WK16.42
+# Operator: Whitney bring up
+# Purpose: call surfaceflinger due to powervr
+
+# Date : W16.42
+# Operation : Integration
+# Purpose : DRM / DRI GPU driver required
+
+
